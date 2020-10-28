@@ -1,529 +1,629 @@
 {
-  "startTimeStamp": "2020-10-27T18:00:00Z",
-  "endTimeStamp": "2020-10-28T00:00:00Z",
+  "startTimeStamp": "2020-10-27T23:00:00Z",
+  "endTimeStamp": "2020-10-28T05:00:00Z",
   "timeRange": [
-    {
-      "timeStamp": "2020-10-27T18:00:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T18:15:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T18:30:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T18:45:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T19:00:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T19:15:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T19:30:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T19:45:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T20:00:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T20:15:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T20:30:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T20:45:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T21:00:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T21:15:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T21:30:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T21:45:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T22:00:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T22:15:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T22:30:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-10-27T22:45:00Z",
-      "items": [
-        {
-          "name": "tls1.0Percent",
-          "value": "0.111528"
-        },
-        {
-          "name": "tls1.1Percent",
-          "value": "0.020971"
-        },
-        {
-          "name": "tls1.2Percent",
-          "value": "21.737556"
-        },
-        {
-          "name": "tls1.3Percent",
-          "value": "78.106114"
-        },
-        {
-          "name": "tlsQUICPercent",
-          "value": "0.023831"
-        }
-      ]
-    },
     {
       "timeStamp": "2020-10-27T23:00:00Z",
       "items": [
         {
           "name": "tls1.0Percent",
-          "value": "0.111528"
+          "value": "0.102387"
         },
         {
           "name": "tls1.1Percent",
-          "value": "0.020971"
+          "value": "0.015358"
         },
         {
           "name": "tls1.2Percent",
-          "value": "21.737556"
+          "value": "21.305433"
         },
         {
           "name": "tls1.3Percent",
-          "value": "78.106114"
+          "value": "78.552505"
         },
         {
           "name": "tlsQUICPercent",
-          "value": "0.023831"
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-27T23:15:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-27T23:30:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-27T23:45:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T00:00:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T00:15:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T00:30:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T00:45:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T01:00:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T01:15:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T01:30:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T01:45:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T02:00:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T02:15:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T02:30:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T02:45:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T03:00:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T03:15:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T03:30:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T03:45:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T04:00:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T04:15:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T04:30:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T04:45:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-10-28T05:00:00Z",
+      "items": [
+        {
+          "name": "tls1.0Percent",
+          "value": "0.102387"
+        },
+        {
+          "name": "tls1.1Percent",
+          "value": "0.015358"
+        },
+        {
+          "name": "tls1.2Percent",
+          "value": "21.305433"
+        },
+        {
+          "name": "tls1.3Percent",
+          "value": "78.552505"
+        },
+        {
+          "name": "tlsQUICPercent",
+          "value": "0.024317"
         }
       ]
     }
