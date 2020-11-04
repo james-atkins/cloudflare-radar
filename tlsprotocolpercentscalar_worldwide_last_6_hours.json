@@ -1,26 +1,26 @@
 {
-  "startTimeStamp": "2020-11-03T11:00:00Z",
-  "endTimeStamp": "2020-11-03T17:00:00Z",
+  "startTimeStamp": "2020-11-03T17:00:00Z",
+  "endTimeStamp": "2020-11-03T23:00:00Z",
   "items": [
     {
       "name": "tls1.0Percent",
-      "value": "0.123353"
+      "value": "0.106113"
     },
     {
       "name": "tls1.1Percent",
-      "value": "0.016425"
+      "value": "0.018640"
     },
     {
       "name": "tls1.2Percent",
-      "value": "21.838734"
+      "value": "20.956220"
     },
     {
       "name": "tls1.3Percent",
-      "value": "78.021378"
+      "value": "78.918580"
     },
     {
       "name": "tlsQUICPercent",
-      "value": "0.000110"
+      "value": "0.000446"
     }
   ]
 }
