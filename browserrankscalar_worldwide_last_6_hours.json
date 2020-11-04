@@ -1,126 +1,132 @@
 {
-  "startTimeStamp": "2020-11-03T17:00:00Z",
-  "endTimeStamp": "2020-11-03T23:00:00Z",
+  "startTimeStamp": "2020-11-03T23:00:00Z",
+  "endTimeStamp": "2020-11-04T05:00:00Z",
   "items": [
     {
       "name": "Chrome",
       "raw_name": "Chrome",
-      "value": "34.730000",
-      "delta": "0.620000"
+      "value": "32.780000",
+      "delta": "-1.950000"
     },
     {
       "name": "Chrome (Mobile)",
       "raw_name": "ChromeMobile",
-      "value": "22.250000",
-      "delta": "-0.800000"
+      "value": "23.350000",
+      "delta": "1.100000"
     },
     {
       "name": "Safari (iOS)",
       "raw_name": "MobileSafari",
-      "value": "10.100000",
-      "delta": "1.060000"
-    },
-    {
-      "name": "Firefox",
-      "raw_name": "Firefox",
-      "value": "6.640000",
-      "delta": "-0.040000"
+      "value": "11.450000",
+      "delta": "1.350000"
     },
     {
       "name": "Chrome Web View",
       "raw_name": "ChromeMobileWebview",
-      "value": "5.180000",
-      "delta": "-1.070000"
+      "value": "6.260000",
+      "delta": "1.080000"
+    },
+    {
+      "name": "Firefox",
+      "raw_name": "Firefox",
+      "value": "5.960000",
+      "delta": "-0.680000"
     },
     {
       "name": "Safari",
       "raw_name": "Safari",
-      "value": "4.050000",
-      "delta": "0.570000"
+      "value": "3.960000",
+      "delta": "-0.090000"
     },
     {
       "name": "Edge",
       "raw_name": "Edge",
-      "value": "3.700000",
-      "delta": "-0.040000"
+      "value": "3.410000",
+      "delta": "-0.290000"
     },
     {
       "name": "Facebook",
       "raw_name": "Facebook",
-      "value": "3.210000",
-      "delta": "-0.030000"
+      "value": "3.120000",
+      "delta": "-0.090000"
     },
     {
       "name": "Samsung Browser",
       "raw_name": "SamsungInternet",
-      "value": "2.880000",
-      "delta": "0.090000"
+      "value": "2.660000",
+      "delta": "-0.220000"
     },
     {
       "name": "iOS Web View",
       "raw_name": "MobileSafariWebview",
-      "value": "1.500000",
-      "delta": "0.050000"
+      "value": "1.850000",
+      "delta": "0.350000"
     },
     {
       "name": "Opera",
       "raw_name": "Opera",
-      "value": "1.290000",
-      "delta": "0.020000"
+      "value": "1.020000",
+      "delta": "-0.270000"
     },
     {
       "name": "UCBrowserMobile",
       "raw_name": "UCBrowserMobile",
-      "value": "0.940000",
-      "delta": "0.030000"
+      "value": "0.840000",
+      "delta": "-0.100000"
     },
     {
       "name": "IE",
       "raw_name": "IE",
-      "value": "0.800000",
-      "delta": "-0.240000"
+      "value": "0.790000",
+      "delta": "-0.010000"
     },
     {
       "name": "Instagram",
       "raw_name": "Instagram",
-      "value": "0.690000",
-      "delta": "0.100000"
-    },
-    {
-      "name": "Yandex",
-      "raw_name": "Yandex",
-      "value": "0.600000",
-      "delta": "-0.200000"
+      "value": "0.630000",
+      "delta": "-0.060000"
     },
     {
       "name": "OperaMobile",
       "raw_name": "OperaMobile",
-      "value": "0.520000",
-      "delta": "0.040000"
+      "value": "0.400000",
+      "delta": "-0.120000"
+    },
+    {
+      "name": "Yandex",
+      "raw_name": "Yandex",
+      "value": "0.350000",
+      "delta": "-0.250000"
     },
     {
       "name": "ChromeDerivative",
       "raw_name": "ChromeDerivative",
-      "value": "0.190000",
-      "delta": "-0.130000"
+      "value": "0.290000",
+      "delta": "0.100000"
     },
     {
       "name": "Silk",
       "raw_name": "Silk",
+      "value": "0.170000",
+      "delta": "0.050000"
+    },
+    {
+      "name": "Cốc Cốc",
+      "raw_name": "CocCoc",
       "value": "0.120000",
+      "delta": "0.080000"
+    },
+    {
+      "name": "Pinterest",
+      "raw_name": "Pinterest",
+      "value": "0.110000",
       "delta": "0.020000"
     },
     {
       "name": "SmartTV",
       "raw_name": "SmartTV",
-      "value": "0.090000",
-      "delta": "0.020000"
-    },
-    {
-      "name": "Pinterest",
-      "raw_name": "Pinterest",
-      "value": "0.090000",
-      "delta": "0.030000"
+      "value": "0.080000",
+      "delta": "-0.010000"
     },
     {
       "name": "Puffin",
@@ -132,29 +138,17 @@
       "name": "SamsungTV",
       "raw_name": "SamsungTV",
       "value": "0.060000",
-      "delta": "0.010000"
-    },
-    {
-      "name": "Cốc Cốc",
-      "raw_name": "CocCoc",
-      "value": "0.040000",
-      "delta": "-0.090000"
-    },
-    {
-      "name": "Chromium",
-      "raw_name": "Chromium",
-      "value": "0.030000",
-      "delta": "0.010000"
-    },
-    {
-      "name": "YandexMobile",
-      "raw_name": "YandexMobile",
-      "value": "0.030000",
-      "delta": "-0.010000"
+      "delta": "0.000000"
     },
     {
       "name": "UC Browser",
       "raw_name": "UCBrowser",
+      "value": "0.030000",
+      "delta": "0.010000"
+    },
+    {
+      "name": "Chromium",
+      "raw_name": "Chromium",
       "value": "0.020000",
       "delta": "-0.010000"
     },
@@ -165,14 +159,14 @@
       "delta": "0.000000"
     },
     {
-      "name": "YandexSearchApp",
-      "raw_name": "YandexSearchApp",
-      "value": "0.010000",
-      "delta": "0.000000"
+      "name": "YandexMobile",
+      "raw_name": "YandexMobile",
+      "value": "0.020000",
+      "delta": "-0.010000"
     },
     {
-      "name": "Snapchat",
-      "raw_name": "Snapchat",
+      "name": "YandexSearchApp",
+      "raw_name": "YandexSearchApp",
       "value": "0.010000",
       "delta": "0.000000"
     },
@@ -187,6 +181,12 @@
       "raw_name": "AppleNews",
       "value": "0.000000",
       "delta": "0.000000"
+    },
+    {
+      "name": "Snapchat",
+      "raw_name": "Snapchat",
+      "value": "0.000000",
+      "delta": "-0.010000"
     },
     {
       "name": "Brave",
