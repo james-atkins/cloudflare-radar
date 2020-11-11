@@ -1,22 +1,22 @@
 {
-  "startTimeStamp": "2020-11-10T11:00:00Z",
-  "endTimeStamp": "2020-11-10T17:00:00Z",
+  "startTimeStamp": "2020-11-10T17:00:00Z",
+  "endTimeStamp": "2020-11-10T23:00:00Z",
   "items": [
     {
       "name": "icmpAttackPercent",
-      "value": "0.000000"
+      "value": "0.135955"
     },
     {
       "name": "tcpAttackPercent",
-      "value": "96.901769"
+      "value": "99.011677"
     },
     {
       "name": "udpAttackPercent",
-      "value": "3.078637"
+      "value": "0.847447"
     },
     {
       "name": "greAttackPercent",
-      "value": "0.019594"
+      "value": "0.004920"
     }
   ]
 }

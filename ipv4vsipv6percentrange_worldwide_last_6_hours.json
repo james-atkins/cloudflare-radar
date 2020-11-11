@@ -1,319 +1,7 @@
 {
-  "startTimeStamp": "2020-11-10T11:00:00Z",
-  "endTimeStamp": "2020-11-10T17:00:00Z",
+  "startTimeStamp": "2020-11-10T17:00:00Z",
+  "endTimeStamp": "2020-11-10T23:00:00Z",
   "timeRange": [
-    {
-      "timeStamp": "2020-11-10T11:00:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "82.172788"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "17.827212"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T11:15:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "82.153473"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "17.846527"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T11:30:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "82.196708"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "17.803292"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T11:45:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "82.174690"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "17.825310"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T12:00:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "82.166071"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "17.833929"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T12:15:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "82.187513"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "17.812487"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T12:30:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "81.920264"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "18.079736"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T12:45:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "81.761674"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "18.238326"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T13:00:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "81.734330"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "18.265670"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T13:15:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "81.369406"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "18.630594"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T13:30:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "81.307773"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "18.692227"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T13:45:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "81.469090"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "18.530910"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T14:00:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "81.419436"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "18.580564"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T14:15:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "81.303747"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "18.696253"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T14:30:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "81.394049"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "18.605951"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T14:45:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "81.135487"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "18.864513"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T15:00:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "81.070121"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "18.929879"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T15:15:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "80.655099"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "19.344901"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T15:30:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "80.995289"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "19.004711"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T15:45:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "80.635789"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "19.364211"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T16:00:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "80.555422"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "19.444578"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T16:15:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "80.258327"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "19.741673"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T16:30:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "80.136028"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "19.863972"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-10T16:45:00Z",
-      "items": [
-        {
-          "name": "ipv4Percent",
-          "value": "80.047345"
-        },
-        {
-          "name": "ipv6Percent",
-          "value": "19.952655"
-        }
-      ]
-    },
     {
       "timeStamp": "2020-11-10T17:00:00Z",
       "items": [
@@ -324,6 +12,318 @@
         {
           "name": "ipv6Percent",
           "value": "19.753002"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T17:15:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.289277"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.710723"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T17:30:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.367016"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.632984"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T17:45:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.177234"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.822766"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T18:00:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.056457"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.943543"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T18:15:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.415346"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.584654"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T18:30:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.386979"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.613021"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T18:45:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.617009"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.382991"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T19:00:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.839488"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.160512"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T19:15:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.828848"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.171152"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T19:30:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "81.020349"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "18.979651"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T19:45:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "81.043803"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "18.956197"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T20:00:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.702276"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.297724"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T20:15:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.808993"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.191007"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T20:30:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "81.126699"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "18.873301"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T20:45:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "81.111320"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "18.888680"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T21:00:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.912053"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.087947"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T21:15:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.666546"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.333454"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T21:30:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.542812"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.457188"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T21:45:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.301618"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.698382"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T22:00:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.067070"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.932930"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T22:15:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "80.161954"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "19.838046"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T22:30:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "79.880288"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "20.119712"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T22:45:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "79.733116"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "20.266884"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-10T23:00:00Z",
+      "items": [
+        {
+          "name": "ipv4Percent",
+          "value": "79.518142"
+        },
+        {
+          "name": "ipv6Percent",
+          "value": "20.481858"
         }
       ]
     }
