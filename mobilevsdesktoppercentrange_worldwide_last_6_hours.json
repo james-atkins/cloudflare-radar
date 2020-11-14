@@ -1,415 +1,7 @@
 {
-  "startTimeStamp": "2020-11-14T05:00:00Z",
-  "endTimeStamp": "2020-11-14T11:00:00Z",
+  "startTimeStamp": "2020-11-14T11:00:00Z",
+  "endTimeStamp": "2020-11-14T17:00:00Z",
   "timeRange": [
-    {
-      "timeStamp": "2020-11-14T05:00:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "54.283782"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "45.722150"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.117461"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T05:15:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "54.914745"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "45.086438"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.110045"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T05:30:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "54.855637"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "45.151422"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.120008"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T05:45:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "55.043414"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "44.964811"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.139817"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T06:00:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "54.796894"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "45.208919"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.139512"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T06:15:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "55.081425"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "44.928977"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.105177"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T06:30:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "54.881658"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "45.121770"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.118856"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T06:45:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "55.552252"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "44.454609"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.116637"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T07:00:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "55.509094"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "44.494278"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.104539"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T07:15:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "55.506772"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "44.499983"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.142975"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T07:30:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "55.155259"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "44.851419"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.117974"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T07:45:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "54.883461"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "45.120922"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.130401"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T08:00:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "55.025968"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "44.982688"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.114694"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T08:15:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "55.169396"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "44.840449"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.105018"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T08:30:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "54.674865"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "45.330548"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.112582"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T08:45:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "54.172384"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "45.835179"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.115614"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T09:00:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "53.887948"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "46.115248"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.112926"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T09:15:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "53.942541"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "46.061750"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.113717"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T09:30:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "53.968712"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "46.034496"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.120831"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T09:45:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "53.598148"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "46.405068"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.120045"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T10:00:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "53.631326"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "46.373951"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.119268"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T10:15:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "53.616845"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "46.390573"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.131406"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T10:30:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "52.628623"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "47.381780"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.106102"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-14T10:45:00Z",
-      "items": [
-        {
-          "name": "mobilePercent",
-          "value": "52.657096"
-        },
-        {
-          "name": "desktopPercent",
-          "value": "47.344998"
-        },
-        {
-          "name": "otherDevicePercent",
-          "value": "0.120420"
-        }
-      ]
-    },
     {
       "timeStamp": "2020-11-14T11:00:00Z",
       "items": [
@@ -424,6 +16,414 @@
         {
           "name": "otherDevicePercent",
           "value": "0.128226"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T11:15:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.235470"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.773654"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.132805"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T11:30:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.212916"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.790082"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.117887"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T11:45:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.168952"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.833015"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.145563"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T12:00:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.070938"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.933889"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.130329"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T12:15:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.246864"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.761645"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.119116"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T12:30:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.256544"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.749860"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.149127"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T12:45:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.263765"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.742620"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.139563"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T13:00:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.480395"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.524979"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.137926"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T13:15:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.539434"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.466714"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.153698"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T13:30:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.531535"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.475307"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.147112"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T13:45:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.461005"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.544104"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.175413"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T14:00:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.426610"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.583390"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.157497"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T14:15:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.437903"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.567090"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.130643"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T14:30:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.148455"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.858856"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.148650"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T14:45:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.007872"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "47.000152"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.134807"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T15:00:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.090623"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.915741"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.139199"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T15:15:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "52.997626"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "47.013377"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.134398"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T15:30:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.022158"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.986412"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.144135"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T15:45:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "52.947938"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "47.059005"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.135768"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T16:00:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "53.041128"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "46.970420"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.131654"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T16:15:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "52.540176"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "47.466685"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.137224"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T16:30:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "52.689891"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "47.317687"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.127314"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T16:45:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "52.278910"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "47.732520"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.141741"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-14T17:00:00Z",
+      "items": [
+        {
+          "name": "mobilePercent",
+          "value": "52.370388"
+        },
+        {
+          "name": "desktopPercent",
+          "value": "47.632651"
+        },
+        {
+          "name": "otherDevicePercent",
+          "value": "0.131435"
         }
       ]
     }
