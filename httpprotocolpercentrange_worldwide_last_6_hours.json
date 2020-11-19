@@ -1,415 +1,7 @@
 {
-  "startTimeStamp": "2020-11-18T23:00:00Z",
-  "endTimeStamp": "2020-11-19T05:00:00Z",
+  "startTimeStamp": "2020-11-19T05:00:00Z",
+  "endTimeStamp": "2020-11-19T11:00:00Z",
   "timeRange": [
-    {
-      "timeStamp": "2020-11-18T23:00:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "24.883643"
-        },
-        {
-          "name": "http2Percent",
-          "value": "75.100532"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.015825"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-18T23:15:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "24.938537"
-        },
-        {
-          "name": "http2Percent",
-          "value": "75.039375"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.022088"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-18T23:30:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.315065"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.665320"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.019615"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-18T23:45:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.375814"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.605749"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.018438"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T00:00:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.454083"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.528036"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.017881"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T00:15:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.517877"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.462330"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.019793"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T00:30:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.596738"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.385711"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.017551"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T00:45:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.498788"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.481438"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.019775"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T01:00:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.884288"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.091925"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.023788"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T01:15:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.831082"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.139711"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.029207"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T01:30:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "26.250652"
-        },
-        {
-          "name": "http2Percent",
-          "value": "73.725347"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.024001"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T01:45:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "26.475639"
-        },
-        {
-          "name": "http2Percent",
-          "value": "73.503292"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.021069"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T02:00:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.974788"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.011348"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.013865"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T02:15:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "26.048539"
-        },
-        {
-          "name": "http2Percent",
-          "value": "73.927898"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.023563"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T02:30:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "26.141258"
-        },
-        {
-          "name": "http2Percent",
-          "value": "73.837209"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.021533"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T02:45:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "27.089618"
-        },
-        {
-          "name": "http2Percent",
-          "value": "72.892198"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.018185"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T03:00:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "28.387549"
-        },
-        {
-          "name": "http2Percent",
-          "value": "71.600930"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.011520"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T03:15:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "26.796127"
-        },
-        {
-          "name": "http2Percent",
-          "value": "73.182475"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.021398"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T03:30:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.686584"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.293807"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.019609"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T03:45:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.528412"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.452547"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.019042"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T04:00:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.415523"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.564643"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.019834"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T04:15:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.490106"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.497312"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.012581"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T04:30:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.585909"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.404959"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.009133"
-        }
-      ]
-    },
-    {
-      "timeStamp": "2020-11-19T04:45:00Z",
-      "items": [
-        {
-          "name": "http1Percent",
-          "value": "25.752650"
-        },
-        {
-          "name": "http2Percent",
-          "value": "74.230238"
-        },
-        {
-          "name": "http3Percent",
-          "value": "0.017112"
-        }
-      ]
-    },
     {
       "timeStamp": "2020-11-19T05:00:00Z",
       "items": [
@@ -424,6 +16,414 @@
         {
           "name": "http3Percent",
           "value": "0.021583"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T05:15:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "25.117821"
+        },
+        {
+          "name": "http2Percent",
+          "value": "74.874229"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.007949"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T05:30:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.737423"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.243419"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.019158"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T05:45:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.559174"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.428456"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.012370"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T06:00:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.240850"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.745885"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.013265"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T06:15:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "25.037318"
+        },
+        {
+          "name": "http2Percent",
+          "value": "74.950697"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.011985"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T06:30:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "26.351757"
+        },
+        {
+          "name": "http2Percent",
+          "value": "73.638603"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.009640"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T06:45:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "25.642939"
+        },
+        {
+          "name": "http2Percent",
+          "value": "74.345500"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.011561"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T07:00:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "25.851106"
+        },
+        {
+          "name": "http2Percent",
+          "value": "74.138655"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.010239"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T07:15:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "25.648959"
+        },
+        {
+          "name": "http2Percent",
+          "value": "74.340728"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.010313"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T07:30:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.813066"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.179734"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.007200"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T07:45:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.555796"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.443176"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.001028"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T08:00:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.249030"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.744970"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.006000"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T08:15:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.492555"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.497431"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.010014"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T08:30:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "25.251531"
+        },
+        {
+          "name": "http2Percent",
+          "value": "74.744531"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.003938"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T08:45:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "25.070296"
+        },
+        {
+          "name": "http2Percent",
+          "value": "74.923846"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.005858"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T09:00:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.312020"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.677279"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.010700"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T09:15:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.639273"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.353022"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.007706"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T09:30:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.531900"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.464247"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.003853"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T09:45:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.290900"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.703308"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.005793"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T10:00:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.057816"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.937423"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.004761"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T10:15:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "24.270217"
+        },
+        {
+          "name": "http2Percent",
+          "value": "75.725973"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.003810"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T10:30:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "23.662434"
+        },
+        {
+          "name": "http2Percent",
+          "value": "76.331872"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.005694"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T10:45:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "23.727159"
+        },
+        {
+          "name": "http2Percent",
+          "value": "76.267262"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.005580"
+        }
+      ]
+    },
+    {
+      "timeStamp": "2020-11-19T11:00:00Z",
+      "items": [
+        {
+          "name": "http1Percent",
+          "value": "23.895632"
+        },
+        {
+          "name": "http2Percent",
+          "value": "76.098838"
+        },
+        {
+          "name": "http3Percent",
+          "value": "0.005530"
         }
       ]
     }
