@@ -1,22 +1,22 @@
 {
-  "startTimeStamp": "2020-12-08T23:00:00Z",
-  "endTimeStamp": "2020-12-09T05:00:00Z",
+  "startTimeStamp": "2020-12-09T05:00:00Z",
+  "endTimeStamp": "2020-12-09T11:00:00Z",
   "items": [
     {
       "name": "layer7FirewallAttackPercent",
-      "value": "12.814437"
+      "value": "16.233721"
     },
     {
       "name": "layer7WAFAttackPercent",
-      "value": "6.014428"
+      "value": "7.640989"
     },
     {
       "name": "layer7DDoSAttackPercent",
-      "value": "80.469209"
+      "value": "75.173548"
     },
     {
       "name": "layer7OtherAttackPercent",
-      "value": "0.701926"
+      "value": "0.951742"
     }
   ]
 }
